@@ -1,6 +1,7 @@
 Usage:
+------
 
-Add this to your pom.xml <repositories> section to use this repository:
+Add this to your pom.xml `<repositories>` section to use this repository:
 
     <repository>
         <id>Custom name</id>
